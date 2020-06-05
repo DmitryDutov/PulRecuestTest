@@ -1,0 +1,8 @@
+﻿Видео о работе с рассыльщиком
+https://www.youtube.com/watch?v=UYuE9v-Uw1I&feature=emb_logo
+
+Готовый класс рассыльщика
+https://stud-work.ru/c-sharp-mail-send-prostoj-primer-c-otpravka-email
+
+Работа с почтой от Метанит
+https://metanit.com/sharp/net/8.1.php
